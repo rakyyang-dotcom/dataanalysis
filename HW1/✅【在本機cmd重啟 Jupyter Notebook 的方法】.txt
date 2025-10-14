@@ -1,0 +1,8 @@
+✅【在本機cmd重啟 Jupyter Notebook 的方法】
+cd C:\Python_learning\HW1
+
+.\.venv\Scripts\activate
+
+jupyter notebook
+
+http://localhost:8888/tree?token=xxxxxxxxxx
